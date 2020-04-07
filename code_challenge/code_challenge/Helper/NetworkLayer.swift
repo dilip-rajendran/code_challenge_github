@@ -15,7 +15,7 @@ enum NetworkCallError: Error {
     case failedImageData
 }
 struct NetworkLayer {
-  let oAuthHeaders = ["Authorization": "token 48fc9315d12a8010b82db7ed763ae82cfd7c35c5"]
+  let oAuthHeaders = ["Authorization": "token **Enter token here**"]
 
   func getResponseForUrl<T: Decodable>(urlString: String, _ decodableType: T.Type, completion: @escaping (T?, Error?) -> Void) {
     
