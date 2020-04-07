@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "43CF7278-A03D-4040-96B5-1D3242997F18"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "28DEEF32-47A1-4937-A096-815E156B31AD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "code_challenge/UserCellViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "getUserDetails(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "28DEEF32-47A1-4937-A096-815E156B31AD - f6a32573f6347113"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "code_challenge.UserCellViewModel.getUserDetails(url: Swift.String, completion: (code_challenge.User) -&gt; ()) -&gt; ()"
+                  moduleName = "code_challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/diliprajendran/Documents/code_challenge_tmobiles/code_challenge/code_challenge/UserCellViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "66">
+               </Location>
+               <Location
+                  uuid = "28DEEF32-47A1-4937-A096-815E156B31AD - 82a6e066fe8ca63e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;code_challenge.User&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in code_challenge.UserCellViewModel.getUserDetails(url: Swift.String, completion: (code_challenge.User) -&gt; ()) -&gt; ()"
+                  moduleName = "code_challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/diliprajendran/Documents/code_challenge_tmobiles/code_challenge/code_challenge/UserCellViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "192">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1850A032-6D98-4249-A7A5-3EC2D7CD830B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "code_challenge/UserSearch/viewmodel/UserCellViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "getUserDetails(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1850A032-6D98-4249-A7A5-3EC2D7CD830B - fbd55cd5e757a1e5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "code_challenge.UserCellViewModel.getUserDetails(completion: (Swift.Optional&lt;code_challenge.User&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "code_challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/diliprajendran/Documents/code_challenge_tmobiles/code_challenge/code_challenge/UserSearch/viewmodel/UserCellViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "1850A032-6D98-4249-A7A5-3EC2D7CD830B - 1dca1c1a53b085e4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;code_challenge.User&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in code_challenge.UserCellViewModel.getUserDetails(completion: (Swift.Optional&lt;code_challenge.User&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "code_challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/diliprajendran/Documents/code_challenge_tmobiles/code_challenge/code_challenge/UserSearch/viewmodel/UserCellViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "274">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
